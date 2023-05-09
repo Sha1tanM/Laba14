@@ -1,0 +1,15 @@
+C:\Users\Пользователь\source\repos\14laba\14laba\bin\Debug\net6.0\14laba.exe
+C:\Users\Пользователь\source\repos\14laba\14laba\bin\Debug\net6.0\14laba.deps.json
+C:\Users\Пользователь\source\repos\14laba\14laba\bin\Debug\net6.0\14laba.runtimeconfig.json
+C:\Users\Пользователь\source\repos\14laba\14laba\bin\Debug\net6.0\14laba.dll
+C:\Users\Пользователь\source\repos\14laba\14laba\bin\Debug\net6.0\14laba.pdb
+C:\Users\Пользователь\source\repos\14laba\14laba\obj\Debug\net6.0\14laba.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\14laba\14laba\obj\Debug\net6.0\14laba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\source\repos\14laba\14laba\obj\Debug\net6.0\14laba.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\14laba\14laba\obj\Debug\net6.0\14laba.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\14laba\14laba\obj\Debug\net6.0\14laba.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\14laba\14laba\obj\Debug\net6.0\14laba.dll
+C:\Users\Пользователь\source\repos\14laba\14laba\obj\Debug\net6.0\refint\14laba.dll
+C:\Users\Пользователь\source\repos\14laba\14laba\obj\Debug\net6.0\14laba.pdb
+C:\Users\Пользователь\source\repos\14laba\14laba\obj\Debug\net6.0\14laba.genruntimeconfig.cache
+C:\Users\Пользователь\source\repos\14laba\14laba\obj\Debug\net6.0\ref\14laba.dll
